@@ -13,13 +13,11 @@ Currently, I am deep-diving into blockchain core infrastructure and smart contra
 
 ## 🛠️ Tech Stacks & Cryptographic Toolkit
 
-### Web3 & Infrastructure
+### Web3 
 <p>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=Avalanche&logoColor=white">
   <img src="https://img.shields.io/badge/Zero_Knowledge_Proofs-000000?style=for-the-badge&logo=Cryptography&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins_CI_CD-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </p>
 
 ### Web2 Core (Enterprise-Grade Back-End & Front-End)
@@ -29,6 +27,11 @@ Currently, I am deep-diving into blockchain core infrastructure and smart contra
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+</p>
+
+### Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Jenkins_CI_CD-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </p>
 
 ---
