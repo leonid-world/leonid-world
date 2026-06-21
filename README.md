@@ -65,4 +65,4 @@ Always happy to exchange ideas with fellow builders and developers.
 *   **Location:** Seoul, South Korea
 *   **Email:** hgkim2504@gmail.com
 
-*Web2 experience. Web3 ambition. Engineering first.
+*Web2 experience. Web3 ambition. Engineering first.*
