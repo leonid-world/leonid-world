@@ -5,7 +5,7 @@
 
 > **"Transforming real-world value into decentralized code. Building the bridge between Web2 infrastructure and the trustless Web3 future."**
 
-A Senior Full-Stack Engineer with over **6 years of heavy-duty production experience** in both high-traffic corporate applications and agile freelance products. Based in Seoul, South Korea.
+A Senior Full-Stack Engineer with over **6 years of heavy-duty production experience** in both high-traffic corporate applications. Based in Seoul, South Korea.
 
 Currently, I am deep-diving into blockchain core infrastructure and smart contracts, specialized in anchoring Web2 enterprise capabilities into decentralized networks. I view digital assets not just as financial instruments, but as an **energy-based currency** and the fundamental cryptographic infrastructure for the next generation.
 
@@ -44,7 +44,7 @@ Currently, I am deep-diving into blockchain core infrastructure and smart contra
 *   **Samsung ACE Project** | *Lead Full-Stack Developer & Operator*
     *   Architected and deployed the core rewarding platform logic and backend infrastructure for Samsung’s business ecosystem.
     *   Designed high-throughput transactional systems and automated the entire build/deployment pipeline using **Jenkins**.
-*   **Freelance Full-Stack Contractor (SI Industry)** | *4+ Years*
+*   **Full-Stack Contractor (SI Industry)** | *4+ Years*
     *   Successfully delivered enterprise-grade web and mobile applications for various institutional clients, managing everything from DB design to frontend UI.
 
 ---
