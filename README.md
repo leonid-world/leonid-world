@@ -8,13 +8,6 @@ Currently expanding into blockchain infrastructure and smart contract developmen
 
 ## 🛠️ Tech Stacks & Cryptographic Toolkit
 
-### Web3 
-<p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/Zero_Knowledge_Proofs-000000?style=for-the-badge&logo=Cryptography&logoColor=white">
-</p>
-
 ### Web2 Core (Enterprise-Grade Back-End & Front-End)
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -29,11 +22,19 @@ Currently expanding into blockchain infrastructure and smart contract developmen
   <img src="https://img.shields.io/badge/Jenkins_CI_CD-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </p>
 
+### Currently Learning & Exploring
+<p>
+  <img src="https://img.shields.io/badge/Web3_Development-121212?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/Blockchain_Infrastructure-0A0A0A?style=for-the-badge">
+</p>
+
 ---
 
 ## 🏗️ What I Do / Currently Building
 
-*   **Samsung ACE Project** | *Lead Full-Stack Developer & DevOps Engineer*
+*   **Samsung ACE Project** | *Lead Full-Stack Developer & Platform Engineer*
     *   Architected and deployed the core reward platform and backend systems for Samsung’s business ecosystem.
     *   Designed and maintained the application deployment architecture, including Nginx configuration, reverse proxy management, deployment automation scripts, and CI/CD pipelines with Jenkins.
     *   Took ownership of the full service lifecycle, from application development and infrastructure configuration to production deployment and operational support.
