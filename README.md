@@ -1,6 +1,4 @@
-# Hi, I'm a Senior Full-Stack Engineering trasitioning from Web2 to Web3
-
-> **"Transforming real-world value into decentralized code. Building the bridge between Web2 infrastructure and the trustless Web3 future."**
+# Hi, I'm a Senior Full-Stack Engineer transitioning from Web2 to Web3
 
 Experienced Full-Stack Engineer with 6+ years building and operating enterprise systems. 
 
@@ -36,12 +34,12 @@ Currently expanding into blockchain infrastructure and smart contract developmen
 ## 🏗️ What I Do / Currently Building
 
 *   **Samsung ACE Project** | *Lead Full-Stack Developer & Operator*
-    *   Architected and deployed the core rewarding platform and backend systems for Samsung’s business ecosystem.
+    *   Architected and deployed the core reward platform and backend systems for Samsung’s business ecosystem.
     *   Designed and maintained the application deployment architecture, including Nginx configuration, reverse proxy management, deployment automation scripts, and CI/CD pipelines with Jenkins.
     *   Took ownership of the full service lifecycle, from application development and infrastructure configuration to production deployment and operational support.
 
 *   **Full-Stack Contractor (SI Industry)** | *4+ Years*
-    *   Successfully delivered enterprise-grade web and mobile applications for various institutional clients, managing everything from DB design to frontend UI.
+    *   Delivered enterprise-grade web and mobile applications for multiple institutional clients, taking ownership of the entire development lifecycle from database design and backend implementation to frontend development and production deployment.
 
 ---
 
@@ -61,4 +59,4 @@ I'm actively seeking deep technical collaborations, freelance consulting opportu
 *   **Location:** Seoul, South Korea
 *   **Email:** hgkim2504@gmail.com
 
-*"Code is law, but energy is the currency. Let's build something un-stoppable."* ⚡
+*Web2 experience. Web3 ambition. Engineering first.
