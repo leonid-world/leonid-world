@@ -49,8 +49,8 @@ Currently, I am deep-diving into blockchain core infrastructure and smart contra
 ## ⚡ GitHub GitOps & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonid-world&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonid-world&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
