@@ -1,7 +1,7 @@
 # Hi, I'm a Web2-to-Web3 Full-Stack Architect 🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_ID?style=for-the-badge)](https://github.com/YOUR_GITHUB_ID)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_ID&count_bg=%2379389F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/edit/toggle/https://github.com/YOUR_GITHUB_ID)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_ID&count_bg=%2379389F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/edit/toggle/https://github.com/leonid-world)
 
 > **"Transforming real-world value into decentralized code. Building the bridge between Web2 infrastructure and the trustless Web3 future."**
 
